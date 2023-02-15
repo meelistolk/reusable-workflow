@@ -20,7 +20,7 @@ _Make a workflow reusable, call it in another workflow, and use a matrix strateg
   Do not use quotes on the <details> tag attributes.
 -->
 
-<details id=0 open>
+<details id=0>
 <summary><h2>Welcome</h2></summary>
 
 Reusable workflows offer a simple and powerful way to avoid copying and pasting workflows across your repositories, and adding a matrix strategy lets you use variables in a single job definition to automatically create multiple job runs.
@@ -53,7 +53,7 @@ Reusable workflows offer a simple and powerful way to avoid copying and pasting 
   TBD-step-1-notes.
 -->
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Make a workflow reusable</h2></summary>
 
 _Welcome to "Reusable Workflows and Matrix Strategies"! :wave:_
